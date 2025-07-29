@@ -1,4 +1,4 @@
-aiogram==3.17.0
-httpx
+aiogram==3.7.0
 google-generativeai==0.4.1
 python-dotenv
+httpx[cli]

@@ -1,0 +1,4 @@
+aiogram==3.17.0
+httpx
+google-generativeai==0.4.1
+python-dotenv
